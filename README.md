@@ -7,7 +7,7 @@ Auto EternalBlue Exploiter
   ||       ||
   |"-------'|NSYay
 .-^---------^-.
-| ---~   AMiGA|
+| ---~   patch|
 "-------------'
 ```
 # Prerequisite
